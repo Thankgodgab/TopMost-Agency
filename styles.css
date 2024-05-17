@@ -522,9 +522,6 @@ body{
     .swiper-wrapper .slide-button {
         display: none !important;
       }
-      .project_card{
-        width: 90%;
-      }
 }
 
 @media (width < 900px){
